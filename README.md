@@ -1,0 +1,2 @@
+# DHGCN
+Directed Hypergraph GCN
